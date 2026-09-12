@@ -16,3 +16,15 @@ Beyond coding, I value teamwork, clear communication, and adaptability. I see we
 
 - HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 - Git, GitHub
+- VS Code, Linux, pgAdmin
+
+## Education
+
+Udemy online courses.
+
+- The Complete Full-Stack Web Development Bootcamp
+- The Complete JavaScript Course 2025: From Zero to Expert!
+
+## Project Code
+
+- https://github.com/Gevorg315/Watched_movie_list/tree/master
