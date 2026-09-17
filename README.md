@@ -1,4 +1,5 @@
 # rsschool-cv
 ## CV
 
-[View my CV](https://Gevorg315.github.io/rsschool-cv/cv)
+[Markdown Version](https://gevorg315.github.io/rsschool-cv/cv)
+[HTML Version](https://gevorg315.github.io/rsschool-cv/)
